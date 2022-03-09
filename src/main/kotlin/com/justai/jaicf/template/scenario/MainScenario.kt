@@ -8,7 +8,7 @@ val mainScenario = Scenario {
             regex("/start")
         }
         action {
-            reactions.say("Начнём!")
+            reactions.say("Начнём!11111")
         }
     }
 
